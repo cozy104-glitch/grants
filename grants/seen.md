@@ -28,3 +28,13 @@
 - 2026-11-24 | 2026-12-04 | KOTRA 산업(패키지)바우처 메뉴판 서비스 등록 안내 | KOTRA | 제외: 수행기관 대상 | https://www.exportvoucher.com/portal/board/boardView?pageNo=1&bbs_id=1&ntt_id=13151
 - 2026-11-24 | 2027-01말 | 지역 핵심 중소·중견기업 4.5조원 공급 | 금융위·신보·기보 | 제외: 1차 수도권 제외 | https://www.fsc.go.kr/no010101/88160
 - 2026-11-24 | 없음 | AI 지원사업 추천 플랫폼 핀톡24 개시 | 금융위·핀테크지원센터 | 제외: 모집 공고 아님 | https://www.fsc.go.kr/no010101/88171
+- 2026-11-24 | 2026-12-17 | 대구 AI 활용 청년 기술창업 지원사업(청년창업가 정주여건 지원) | 대구창조경제혁신센터 | 제외: 대구 지역·청년 창업기업 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127965
+- 2026-11-24 | 2026-11-27 | [경기] KSURE 연계 수출보험 단체가입 지원 | 경기도 | 제외: 경기도 소재 기업 대상 〔확인〕 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128054
+- 2026-11-24 | 2026-12-11 | 전북형 스마트 제조AI 시범공장 조성사업 | 전북테크노파크 | 제외: 전북 지역·제조 공장 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128041
+- 2026-11-24 | 2026-12-03 | [대전] 2026년 6차 해외규격인증 획득지원사업 | 대전일자리경제진흥원 | 제외: 대전 지역 기업 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128042
+- 2026-11-24 | 2026-12-10 | [충북] 수출24(해외시장조사) 및 지사화 지원 | 충청북도기업진흥원 | 제외: 충북 지역 기업 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128068
+- 2026-11-24 | 2026-11-27 | [세종] 오픈이노베이션 글로벌 기술검증 프로그램 | 세종창조경제혁신센터 | 제외: 세종 지역 기업 대상 〔확인〕 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128080
+- 2026-11-24 | 2026-11-27 | 2027년 제조AX분야 산업기술R&D 과제기획 기술수요조사 | 산업통상부·기정원 | 제외: 수요조사(지원 공고 아님)·제조 분야 | https://www.ntis.go.kr/rndgate/eg/un/ra/mng.do
+- 2026-11-24 | 2026-11-25 | K-문샷 반도체 미션 연구모델 기획 연구 재공고 | 과기정통부 | 제외: 정책연구 용역 | https://www.ntis.go.kr/rndgate/eg/un/ra/mng.do
+- 2026-11-24 | 2026-11-25 | 2026년 3차 장애인기업 국내·외 전시회참가 지원사업 | 중기부 | 제외: 장애인기업 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127994
+- 2026-11-24 | 2026-12-01 | [ART-AI ACADEMY] AI 숏폼 워크숍 | 마포청년창업취업지원센터 나루 | 제외: 교육 행사 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179849
