@@ -28,3 +28,9 @@
 - 2026-11-24 | 2026-12-04 | KOTRA 산업(패키지)바우처 메뉴판 서비스 등록 안내 | KOTRA | 제외: 수행기관 대상 | https://www.exportvoucher.com/portal/board/boardView?pageNo=1&bbs_id=1&ntt_id=13151
 - 2026-11-24 | 2027-01말 | 지역 핵심 중소·중견기업 4.5조원 공급 | 금융위·신보·기보 | 제외: 1차 수도권 제외 | https://www.fsc.go.kr/no010101/88160
 - 2026-11-24 | 없음 | AI 지원사업 추천 플랫폼 핀톡24 개시 | 금융위·핀테크지원센터 | 제외: 모집 공고 아님 | https://www.fsc.go.kr/no010101/88171
+
+## 2026-11-25
+- 2026-11-25 | 2026-11-30 18:00 | 2026 벤처브릿지 오픈이노베이션 1회차(AI, 미래 모빌리티) | 알파브라더스·호서대 | 제외: 아산시 소재 또는 이전 조건 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179803
+- 2026-11-25 | 2026-12-08 | 2026년 2차 해외 온라인 플랫폼 판로지원 사업 | 중기부·소상공인시장진흥공단 | 제외: 소상공인 대상 | https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128092
+- 2026-11-25 | 2026-12-14 | 창원시 3차 의료기기 부품·모듈 국산화 및 기술개발 지원사업 연장 | 창원산업진흥원 | 제외: 의료기기 분야 | https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128091
+- 2026-11-25 | 소진 시 | 2026 인천 중소기업 연구조직 설립 지원사업 (메일) | 인천테크노파크 | 제외: 연구조직 미설립 기업 대상·2026-02 기존 공고 | 메일
