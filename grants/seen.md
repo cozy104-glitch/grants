@@ -28,3 +28,12 @@
 - 2026-11-24 | 2026-12-04 | KOTRA 산업(패키지)바우처 메뉴판 서비스 등록 안내 | KOTRA | 제외: 수행기관 대상 | https://www.exportvoucher.com/portal/board/boardView?pageNo=1&bbs_id=1&ntt_id=13151
 - 2026-11-24 | 2027-01말 | 지역 핵심 중소·중견기업 4.5조원 공급 | 금융위·신보·기보 | 제외: 1차 수도권 제외 | https://www.fsc.go.kr/no010101/88160
 - 2026-11-24 | 없음 | AI 지원사업 추천 플랫폼 핀톡24 개시 | 금융위·핀테크지원센터 | 제외: 모집 공고 아님 | https://www.fsc.go.kr/no010101/88171
+
+## 2026-11-26
+- 2026-11-26 | 2026-12-31(예산 소진 시) | 2026년 중동상황 대응 수출위기 극복 물류지원금 추가모집 | 서울경제진흥원 | 업종 확인 필요(수출 물류 실적) | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128124
+- 2026-11-26 | 2026-12-11 23:59 | 2026년 3차 서울 AI 허브 신규 입주기업 모집 | 서울대학교산학협력단(서울 AI 허브) | 제외: 2020-01-01 이전 설립 법인 제외 조항 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179875
+- 2026-11-26 | 예산 소진 시 | 2026년 중소기업 정책자금 융자계획 변경 공고 | 중기부·중진공 | 제외: 계획 변경 공고 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128114
+- 2026-11-26 | 2026-11-30 | CES 2027 경상북도 글로벌 비즈니스 지원사업 | 경상북도경제진흥원 | 제외: 경북 기업 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128117
+- 2026-11-26 | 2026-12-08 | 2026년 2차 해외 온라인 플랫폼 판로지원 사업 | 소상공인시장진흥공단 | 제외: 소상공인 대상 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128092
+- 2026-11-26 | 2026-12-28 | 2027년 글로벌 액셀러레이팅(GMEP) 지원사업 주관기관 모집 | 창업진흥원 | 제외: 주관기관 대상 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179887
+- 2026-11-26 | 2026-11-27 | 2027년도 제조AX분야 산업기술R&D사업 과제기획 기술수요조사 | 산업통상부 | 제외: 수요조사(지원사업 아님) | https://www.ntis.go.kr/rndgate/eg/un/ra/mng.do
