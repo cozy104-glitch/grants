@@ -28,3 +28,21 @@
 - 2026-11-24 | 2026-12-04 | KOTRA 산업(패키지)바우처 메뉴판 서비스 등록 안내 | KOTRA | 제외: 수행기관 대상 | https://www.exportvoucher.com/portal/board/boardView?pageNo=1&bbs_id=1&ntt_id=13151
 - 2026-11-24 | 2027-01말 | 지역 핵심 중소·중견기업 4.5조원 공급 | 금융위·신보·기보 | 제외: 1차 수도권 제외 | https://www.fsc.go.kr/no010101/88160
 - 2026-11-24 | 없음 | AI 지원사업 추천 플랫폼 핀톡24 개시 | 금융위·핀테크지원센터 | 제외: 모집 공고 아님 | https://www.fsc.go.kr/no010101/88171
+
+## 2026-11-28
+- 2026-11-28 | 2026-12-06 18:00 | 2026년 12월 KICXUP 서울 입주기업 모집 | 한국산업단지공단·씨엔티테크 | 지원 후보(업력 충족 〔확인〕 신산업 특례 적용 여부) | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179852
+- 2026-11-28 | 2026-12-18 18:00 | 포용금융 활성화를 위한 기획형 샌드박스 사업자 모집 | 금융위·핀테크지원센터 | 업종 확인 필요(금융회사·온투업 과제) | https://www.fsc.go.kr/no010101/88235
+- 2026-11-28 | 예산 소진 시 | 서울 중동상황 대응 수출위기 극복 물류지원금 추가 모집 | 서울경제진흥원 | 업종 확인 필요(수출 국제운송비) | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128124
+- 2026-11-28 | 2026-12-11 23:59 | 2026년 3차 서울 AI 허브 신규 입주기업 모집 | 서울대학교산학협력단 | 제외: 2020-01 이후 설립 요건 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179875
+- 2026-11-28 | 2026-12-04 18:00 | 초기창업패키지 로켓십 IR 경진대회(4회차) | 씨엔티테크 | 제외: 초기창업패키지 선정·졸업기업 한정 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179841
+- 2026-11-28 | 2026-11-30 18:00 | 2026 벤처브릿지 오픈이노베이션 1회차(AI·모빌리티) | 알파브라더스 | 제외: 아산 소재·이전 요건 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179803
+- 2026-11-28 | 2026-12-11 | 2026년 3차 포텐셜씨드 경작형 프로그램 | 울산창조경제혁신센터 | 제외: 사업 개시 5년 이내 요건 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179860
+- 2026-11-28 | 2026-12-28 | 2027년 글로벌 액셀러레이팅(GMEP) 주관기관 모집 | 창업진흥원 | 제외: 주관기관(운영기관) 대상 | https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179887
+- 2026-11-28 | 2026-12-04 | 2026년 2차 전남광주 AI 유망기업 맞춤형 사업화 지원 | 인공지능산업융합사업단 | 제외: 전남광주 입주·이전 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128146
+- 2026-11-28 | 2026-12-11 | 2027년 지역디지털기초체력지원 지역선도기업 사업화 | 경남테크노파크 | 제외: 경남 소재 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128142
+- 2026-11-28 | 예산 소진 시 | 2026년 중소기업 정책자금 융자계획 변경 공고 | 중기부·중진공 | 제외: 기존 공고 변경, 신규 모집 아님 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128114
+- 2026-11-28 | 예산 소진 시 | 구미시 2026년 매출채권보험료 지원사업 | 신용보증기금·구미시 | 제외: 구미시 소재 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128158
+- 2026-11-28 | 2026-11-30 | CES 2027 경상북도 글로벌 비즈니스 지원 | 경상북도경제진흥원 | 제외: 경북 사업장 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128117
+- 2026-11-28 | 2026-12-14 | 경기 남부권 4차 중소기업 개발생산판로 맞춤형 지원 | 경기도경제과학진흥원 | 제외: 경기 남부 소재 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128175
+- 2026-11-28 | 2026-12-31 | 창업도시 프로젝트 친환경·에너지 분야 기술지원 | 울산창조경제혁신센터 | 제외: 친환경·에너지 분야 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128137
+- 2026-11-28 | 2026-12-18 | 전북 10차 ILP 서비스 기술연결 수요기업 모집 | 전북테크노파크 | 제외: 전북 사업장 요건 | https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000128094
